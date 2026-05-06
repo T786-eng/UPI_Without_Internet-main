@@ -53,7 +53,7 @@ The first run creates a local SQLite database (`upimesh.db`) and seeds 4 demo ac
 Once you see `Running on http://0.0.0.0:8080`, open:
 
 ```
-http://localhost:8080
+http://127.0.0.1:8080/
 ```
 
 You'll get a dark dashboard with everything you need to drive the demo.
