@@ -50,7 +50,7 @@ The first run creates a local SQLite database (`upimesh.db`) and seeds 4 demo ac
 
 ### Open the dashboard
 
-Once you see `Running on http://0.0.0.0:8080`, open:
+Once you see `Running on http://127.0.0.1:8080/`, open:
 
 ```
 http://127.0.0.1:8080/
